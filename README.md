@@ -1,2 +1,2 @@
 # automation
-automation for applications
+automation for my hobby applications

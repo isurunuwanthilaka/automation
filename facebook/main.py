@@ -23,7 +23,7 @@ for user in users:
 #   for i in ls:
 #    name = i
 #    friend = client.searchForUsers(name)[0]
-#    text = 'kohomada ithn me dwas wala'
+#    text = 'Hello'
 #    client.send(Message(text),friend.uid)
 
 print t
